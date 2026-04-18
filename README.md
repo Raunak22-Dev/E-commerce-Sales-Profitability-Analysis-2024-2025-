@@ -1,11 +1,5 @@
 # 🛒 E-commerce Sales & Profitability Analysis (2024–2025)
 
-<p align="center">
-  <img src="./dashboard.png" width="900"/>
-</p>
-
----
-
 ## 🚀 Project Status
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -82,7 +76,7 @@ CSV → MySQL → SQL Analysis → Python (EDA) → Power BI Dashboard
 ### 📸 Dashboard Preview
 
 <p align="center">
-  <img src="./images/dashboard.png" width="900"/>
+  <img src="./dashboard.png" width="900"/>
 </p>
 
 ---
