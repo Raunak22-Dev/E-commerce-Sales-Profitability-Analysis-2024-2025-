@@ -1,7 +1,7 @@
 # 🛒 E-commerce Sales & Profitability Analysis (2024–2025)
 
 <p align="center">
-  <img src="./images/dashboard.png" width="900"/>
+  <img src="./dashboard.png" width="900"/>
 </p>
 
 ---
@@ -164,32 +164,19 @@ The business demonstrates:
 
 ```text
 📂 project-folder
- ┣ 📂 images
- ┃ ┗ 📸 dashboard.png
+ ┣ 📸 dashboard.png
  ┣ 📜 README.md
  ┣ 📊 EDA.ipynb
  ┣ 📄 Ecommerce_Analysis_Report.docx
  ┣ 📊 PowerBI_Dashboard.pbix
- ┗ 📁 dataset
+ ┗ 📁 ecommerce_dataset
 ```
 
 ---
 
-## 🚀 Future Improvements
-
-* Customer segmentation (RFM)
-* Sales forecasting (ML)
-* Multi-page dashboard
-* Real-time data integration
-
----
 
 ## 🙌 Author
 
 **Raunak Gangwal**
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, give it a ⭐ on GitHub!
