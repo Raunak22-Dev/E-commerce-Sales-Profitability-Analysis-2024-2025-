@@ -162,7 +162,8 @@ The business demonstrates:
  ┣ 📜 README.md
  ┣ 📊 EDA.ipynb
  ┣ 📄 Ecommerce_Analysis_Report.docx
- ┣ 📊 PowerBI_Dashboard.pbix
+ ┣ 📊 ecommerce.pbix
+ ┣ 📁 logs
  ┗ 📁 ecommerce_dataset
 ```
 
